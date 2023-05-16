@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVV1dRpEmNU1juurgljq6RB2NbJH6IRlsEvXunW+MslSpf847EeYPsZWXqBVF0DaC3fZymoK/1TGdiqjIwIP/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\login-net\\login-net\\login-net\\login-net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MIT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
